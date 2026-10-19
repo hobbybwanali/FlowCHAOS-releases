@@ -1,0 +1,48 @@
+FlowCHAOS Freeware Licence
+Version 1.0
+
+Copyright (c) 2025-2026 The FlowCHAOS contributors. All rights reserved.
+
+FlowCHAOS (Comprehensive Hydraulic Analysis & Optimization System) is freeware, licensed without a fee. This licence
+lets you use it; it does not sell it to you, and it does not give you its source code.
+
+1. Use
+   You may install and use FlowCHAOS on any number of computers, for any purpose, including
+   commercial work, consulting, teaching, research and the design of real projects, without paying
+   any fee.
+
+2. Sharing
+   You may give the unmodified installers (the MSI and the setup program) to others without charging for them,
+   with this licence. You may not sell FlowCHAOS, rent it, or include it in a product or service you
+   charge for.
+
+3. What you may not do
+   You may not modify FlowCHAOS, decompile it, disassemble it or try to recover its source code,
+   except as far as the law that applies to you allows it in spite of this limitation. You may not
+   remove or change its notices of copyright, its name or its marks.
+
+4. Your work stays yours
+   The networks, projects, maps, reports and other results you make with FlowCHAOS belong to you.
+   Plugins you write for FlowCHAOS through its plugin interface are yours too.
+
+5. Other people's components
+   FlowCHAOS includes components made by others, each under its own licence (MIT, BSD, LGPL and
+   others). Those licences apply to those components and are listed in THIRD-PARTY-NOTICES.txt in
+   the program folder. Nothing in this licence limits the rights those licences give you; in
+   particular, the Qt libraries in the program folder may be replaced with modified versions under
+   the LGPL, and section 3 does not stop the reverse engineering needed to debug such a change.
+
+6. No warranty
+   FlowCHAOS is provided as it is, without warranty of any kind, express or implied, including any
+   warranty that it is fit for a particular purpose. Engineering results must be checked by a
+   qualified person before they are used to design, build or operate a system.
+
+7. Limitation of liability
+   As far as the law allows, the FlowCHAOS contributors are not liable for any damage or loss that
+   comes from using FlowCHAOS or from being unable to use it.
+
+8. Changes
+   Later versions of FlowCHAOS may come with a different licence. This licence applies to the version
+   it came with.
+
+Questions about this licence: hobbybwanali@gmail.com
